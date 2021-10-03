@@ -18,7 +18,15 @@
    ```sh
    git clone https://github.com/<your-username>/hacktoberfest21-flutter-gdsc-iiitv
    ```
-3. Edit the the data.json
+3. Change Directory to `hacktoberfest21-flutter-gdsc-iiitv` , using
+    `cd hacktoberfest21-flutter-gdsc-iiitv`
+
+4. Create a branch named `feature-{github-username}`, using
+    `git checkout -b feature-{github-username}`
+
+5. Open the current directory in your editor.
+
+4. Edit the the data.json
 ```sh
   {
             "id":prev +1,
@@ -27,7 +35,7 @@
             "imgURL": "<Your Image URL>",
             "linkedinURL":"<Your LinkedIN profile URL>",
             "githubURL": "<Your GitHub profile URL>"
-        }
+   }
    ```
  4. Commit the Changes and make a PR and wait it to get merged
 
