@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'avengers.dart';
+import 'models/avengers.dart';
 
 class AvengerDetail extends StatelessWidget {
   final Data data;
@@ -19,46 +19,56 @@ class AvengerDetail extends StatelessWidget {
               child: Column(
                 children: [
                   SizedBox(
-                    height: MediaQuery.of(context).size.height / 7,
+                    height: MediaQuery.of(context).size.height / 6,
                   ),
                   Text(
                     data.name!,
                     style: const TextStyle(
-                        fontSize: 32.0, fontWeight: FontWeight.bold),
+                        fontSize: 30.0, fontWeight: FontWeight.bold),
                   ),
                   SizedBox(
-                    height: MediaQuery.of(context).size.height / 50,
+                    height: MediaQuery.of(context).size.height / 80,
                   ),
-                  Text(data.batch!,
+                  Text("Batch of " + data.batch!,
                       style: const TextStyle(
-                          fontSize: 20.0, fontWeight: FontWeight.bold)),
+                          fontSize: 18.0, fontWeight: FontWeight.bold)),
                   SizedBox(
                     height: MediaQuery.of(context).size.height / 30,
                   ),
-                  Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                      children: [
-                        InkWell(
-                          onTap: () {
-                            launch(data.githubURL!);
-                            debugPrint("${data.githubURL}");
-                          },
-                          child: SizedBox(
-                              height: 50,
-                              width: 50,
-                              child: Image.asset('assets/icon/GitHub.png')),
-                        ),
-                        InkWell(
-                          onTap: () {
-                            launch(data.linkedinURL!);
-                            debugPrint("${data.linkedinURL}");
-                          },
-                          child: SizedBox(
-                              height: 50,
-                              width: 50,
-                              child: Image.asset('assets/icon/Linkedin.png')),
-                        )
-                      ]),
+                  Row(mainAxisAlignment: MainAxisAlignment.center, children: [
+                    InkWell(
+                      onTap: () {
+                        launch(data.githubURL!);
+                        debugPrint("${data.githubURL}");
+                      },
+                      child: SizedBox(
+                          height: 40,
+                          width: 40,
+                          child: Image.asset('assets/icon/GitHub.png')),
+                    ),
+                    SizedBox(width: MediaQuery.of(context).size.width * 0.07),
+                    InkWell(
+                      onTap: () {
+                        launch(data.twitterURL!);
+                        debugPrint("${data.twitterURL}");
+                      },
+                      child: SizedBox(
+                          height: 50,
+                          width: 50,
+                          child: Image.asset('assets/icon/twitter.png')),
+                    ),
+                    SizedBox(width: MediaQuery.of(context).size.width * 0.07),
+                    InkWell(
+                      onTap: () {
+                        launch(data.linkedinURL!);
+                        debugPrint("${data.linkedinURL}");
+                      },
+                      child: SizedBox(
+                          height: 40,
+                          width: 40,
+                          child: Image.asset('assets/icon/Linkedin.png')),
+                    )
+                  ]),
                 ],
               ),
             ),
@@ -76,9 +86,11 @@ class AvengerDetail extends StatelessWidget {
                     height: 200.0,
                     width: 200.0,
                     decoration: BoxDecoration(
+                        borderRadius:
+                            const BorderRadius.all(Radius.circular(10.0)),
                         image: DecorationImage(
-                      image: NetworkImage(data.imgURL!),
-                    )),
+                          image: NetworkImage(data.imgURL!),
+                        )),
                   )),
             ),
           )
@@ -107,8 +119,10 @@ class AvengerDetail extends StatelessWidget {
               // ng: EdgeInsets.all(8.0),paddi
               child: const Center(
                 child: Text(
-                  "</> by GDSC",
-                  style: TextStyle(fontSize: 20, fontStyle: FontStyle.italic),
+                  "</> by GDSC IIITV",
+                  style: TextStyle(
+                    fontSize: 20,
+                  ),
                   textAlign: TextAlign.center,
                 ),
               ),
