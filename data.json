@@ -8,6 +8,15 @@
             "linkedinURL":"https://www.linkedin.com/in/kapilkumar2001/",
             "githubURL": "https://github.com/kapilkumar2001",
             "twitterURL": "https://twitter.com/imkapil31"
+        },
+        {
+            "id":2,
+            "name": "Keshav Agarwal",
+            "batch": "2019",
+            "imgURL": "https://i.ibb.co/yX1939h/Whats-App-Image-2021-09-17-at-3-55-25-PM.jpg",
+            "linkedinURL":"https://www.linkedin.com/in/keshavagarwal1710/",
+            "githubURL": "https://github.com/The-Keshav-Agarwal",
+            "twitterURL": "https://twitter.com/keshav_aga"
         }
     ]
 }
