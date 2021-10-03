@@ -20,7 +20,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   var url = Uri.parse(
-      "https://raw.githubusercontent.com/iiitv/hacktoberfest21-flutter-gdsc-iiitv/main/data.json?token=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");
+      "https://raw.githubusercontent.com/iiitv/hacktoberfest21-flutter-gdsc-iiitv/main/data.json");
 
   DataHub? dataHub;
   @override
