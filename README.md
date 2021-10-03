@@ -35,6 +35,7 @@
             "imgURL": "<Your Image URL>",
             "linkedinURL":"<Your LinkedIN profile URL>",
             "githubURL": "<Your GitHub profile URL>"
+            "twitterURL": "<Your Twitter Profile URL>"
    }
    ```
  4. Commit the Changes and make a PR and wait it to get merged
