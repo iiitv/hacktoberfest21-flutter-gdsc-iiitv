@@ -1,7 +1,5 @@
-
-
 class DataHub {
-  List<Data> data =[];
+  List<Data> data = [];
   DataHub({required this.data});
 
   DataHub.fromJson(Map<String, dynamic> json) {
@@ -13,7 +11,7 @@ class DataHub {
   }
 
   Map<String, dynamic> toJson() {
-    final Map<String, dynamic> data =  Map<String, dynamic>();
+    final Map<String, dynamic> data = Map<String, dynamic>();
     if (this.data != null) {
       data['data'] = this.data.map((v) => v.toJson()).toList();
     }
@@ -22,20 +20,21 @@ class DataHub {
 }
 
 class Data {
-  int ?id;
+  int? id;
   String? name;
   String? batch;
   String? imgURL;
-  String ?linkedinURL;
-  String ?githubURL;
-  Data({
-  this.id,
-    this.name,
-    this.batch,
-    this.imgURL,
-    this.linkedinURL,
-    this.githubURL,
-  });
+  String? linkedinURL;
+  String? githubURL;
+  String? twitterURL;
+  Data(
+      {this.id,
+      this.name,
+      this.batch,
+      this.imgURL,
+      this.linkedinURL,
+      this.githubURL,
+      this.twitterURL});
 
   // Data copyWith({
   //   int id,
@@ -63,18 +62,19 @@ class Data {
       'imgURL': imgURL,
       'linkedinURL': linkedinURL,
       'githubURL': githubURL,
+      'twitterURL': twitterURL
     };
   }
 
   factory Data.fromMap(Map<String, dynamic> map) {
     return Data(
-      id: map['id'],
-      name: map['name'],
-      batch: map['batch'],
-      imgURL: map['imgURL'],
-      linkedinURL: map['linkedinURL'],
-      githubURL: map['githubURL'],
-    );
+        id: map['id'],
+        name: map['name'],
+        batch: map['batch'],
+        imgURL: map['imgURL'],
+        linkedinURL: map['linkedinURL'],
+        githubURL: map['githubURL'],
+        twitterURL: map['twitterURL']);
   }
 
   // String toJson() => json.encode(toMap());
@@ -86,18 +86,19 @@ class Data {
     imgURL = json['imgURL'];
     githubURL = json['githubURL'];
     linkedinURL = json['linkedinURL'];
-    
+    twitterURL = json['twitterURL'];
   }
 
-   Map<String, dynamic> toJson() {
+  Map<String, dynamic> toJson() {
     final Map<String, dynamic> data = new Map<String, dynamic>();
     data['id'] = id;
-        data['name'] = name;
+    data['name'] = name;
     data['imgURL'] = imgURL;
-    data['githubURL'] =githubURL;
+    data['githubURL'] = githubURL;
     data['batch'] = batch;
     data['linkedinURL'] = linkedinURL;
-    // data['weaknesses'] = this.weaknesses;
+    data['twitterURL'] = twitterURL;
+
     return data;
   }
 

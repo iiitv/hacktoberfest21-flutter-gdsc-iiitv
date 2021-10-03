@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hacktoberfest21_gdsc/avenger_detail.dart';
-import 'package:hacktoberfest21_gdsc/avengers.dart';
+import 'package:hacktoberfest21_gdsc/models/avengers.dart';
 import "package:http/http.dart" as http;
 import 'dart:convert';
 
@@ -20,12 +20,11 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   var url = Uri.parse(
-      "https://iiitv.github.io/hacktoberfest21-flutter-gdsc-iiitv/data.json");
+      "https://raw.githubusercontent.com/iiitv/hacktoberfest21-flutter-gdsc-iiitv/main/data.json?token=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");
 
   DataHub? dataHub;
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
 
     fetchData();
@@ -119,8 +118,10 @@ class _HomePageState extends State<HomePage> {
               // ng: EdgeInsets.all(8.0),paddi
               child: const Center(
                 child: Text(
-                  "</> by GDSC",
-                  style: TextStyle(fontSize: 20, fontStyle: FontStyle.italic),
+                  "</> by GDSC IIITV",
+                  style: TextStyle(
+                    fontSize: 20,
+                  ),
                   textAlign: TextAlign.center,
                 ),
               ),
