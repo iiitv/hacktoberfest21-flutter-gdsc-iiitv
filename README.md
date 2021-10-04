@@ -9,7 +9,7 @@
 # How to Contribute 
   ## Prerequisites
 
-- you should have Flutter SDK installed in your environment [here](https://flutter.dev/docs/get-started/install).
+- you should have Flutter SDK installed in your environment [here](https://flutter.dev/docs/get-started/install). 
 
 ## Installation
 
@@ -26,10 +26,10 @@
 
 5. Open the current directory in your editor.
 
-4. Edit the the data.json
+4. Add your data in 'data.json' file in given format 
 ```sh
   {
-            "id":prev +1,
+            "id": prev +1,
             "name": "<Your Name>",
             "batch": "<Your Batch>",
             "imgURL": "<Your Image URL>",
