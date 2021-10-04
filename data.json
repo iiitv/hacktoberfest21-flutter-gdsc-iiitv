@@ -116,6 +116,15 @@
       "linkedinURL": "",
       "githubURL": "https://github.com/yash-borikar",
       "twitterURL": ""
+    },
+    {
+      "id": 14,
+      "name": "Dhruv Dave",
+      "batch": "2020",
+      "imgURL": "https://i.ibb.co/41RWhgL/Whats-App-Image-2021-10-04-at-7-25-08-PM.jpg",
+      "linkedinURL": "www.linkedin.com/in/dhruv1201",
+      "githubURL": "https://github.com/DhruvDave12",
+      "twitterURL": "https://twitter.com/DhruvDa74935138"
     }
   ]
 }
