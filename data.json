@@ -1,22 +1,40 @@
 {
-    "data": [
-       {
-            "id":1,
-            "name": "Kapil Kumar",
-            "batch": "2019",
-            "imgURL": "https://i.imgur.com/g0nuExH.jpg",
-            "linkedinURL":"https://www.linkedin.com/in/kapilkumar2001/",
-            "githubURL": "https://github.com/kapilkumar2001",
-            "twitterURL": "https://twitter.com/imkapil31"
-        },
-        {
-            "id":2,
-            "name": "Keshav Agarwal",
-            "batch": "2019",
-            "imgURL": "https://i.ibb.co/yX1939h/Whats-App-Image-2021-09-17-at-3-55-25-PM.jpg",
-            "linkedinURL":"https://www.linkedin.com/in/keshavagarwal1710/",
-            "githubURL": "https://github.com/The-Keshav-Agarwal",
-            "twitterURL": "https://twitter.com/keshav_aga"
-        }
-    ]
+  "data": [
+    {
+      "id": 1,
+      "name": "Kapil Kumar",
+      "batch": "2019",
+      "imgURL": "https://i.imgur.com/g0nuExH.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/kapilkumar2001/",
+      "githubURL": "https://github.com/kapilkumar2001",
+      "twitterURL": "https://twitter.com/imkapil31"
+    },
+    {
+      "id": 2,
+      "name": "Keshav Agarwal",
+      "batch": "2019",
+      "imgURL": "https://i.ibb.co/yX1939h/Whats-App-Image-2021-09-17-at-3-55-25-PM.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/keshavagarwal1710/",
+      "githubURL": "https://github.com/The-Keshav-Agarwal",
+      "twitterURL": "https://twitter.com/keshav_aga"
+    },
+    {
+      "id": 2,
+      "name": "Keshav Agarwal",
+      "batch": "2019",
+      "imgURL": "https://i.ibb.co/yX1939h/Whats-App-Image-2021-09-17-at-3-55-25-PM.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/keshavagarwal1710/",
+      "githubURL": "https://github.com/The-Keshav-Agarwal",
+      "twitterURL": "https://twitter.com/keshav_aga"
+    },
+    {
+      "id": 3,
+      "name": "Rahul Badgujar",
+      "batch": "2021",
+      "imgURL": "https://imgur.com/a/3uCDFuQ",
+      "linkedinURL": "https://www.linkedin.com/in/rahulbadgujar/",
+      "githubURL": "https://github.com/rahul-badgujar",
+      "twitterURL": "https://twitter.com/imRB7here"
+    }
+  ]
 }
