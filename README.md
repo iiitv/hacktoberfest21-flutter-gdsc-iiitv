@@ -34,7 +34,7 @@
             "batch": "<Your Batch>",
             "imgURL": "<Your Image URL>",
             "linkedinURL":"<Your LinkedIN profile URL>",
-            "githubURL": "<Your GitHub profile URL>"
+            "githubURL": "<Your GitHub profile URL>",
             "twitterURL": "<Your Twitter Profile URL>"
    }
    ```
