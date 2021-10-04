@@ -98,6 +98,15 @@
       "linkedinURL": "https://www.linkedin.com/in/kamal-kumar-7421921aa/",
       "githubURL": "https://github.com/kamalkumar7",
       "twitterURL": ""
+    },
+    {
+      "id": 12,
+      "name": "Tirth Joshi",
+      "batch": "2020",
+      "imgURL": "https://i.ibb.co/LRYHcK7/IMG-9298-Copy.jpg",
+      "linkedinURL":"https://www.linkedin.com/in/tirth5828",
+      "githubURL": "https://github.com/tirth5828",
+      "twitterURL": "https://twitter.com/tirth5828"
     }
   ]
 }
