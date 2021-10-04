@@ -55,13 +55,13 @@
       "twitterURL": ""
     },
     {
-            "id": 7,
-            "name": "Riya Parikh",
-            "batch": "2021",
-            "imgURL": "https://i.ibb.co/8cS47ZZ/Whats-App-Image-2021-10-04-at-19-24-42.jpg",
-            "linkedinURL":"<https://www.linkedin.com/in/riya-parikh-27b345196",
-            "githubURL": "https://github.com/RiyaParikh0112",
-            "twitterURL": "https://twitter.com/meMoodyMind"
+      "id": 7,
+      "name": "Riya Parikh",
+      "batch": "2021",
+      "imgURL": "https://i.ibb.co/8cS47ZZ/Whats-App-Image-2021-10-04-at-19-24-42.jpg",
+      "linkedinURL":"<https://www.linkedin.com/in/riya-parikh-27b345196",
+      "githubURL": "https://github.com/RiyaParikh0112",
+      "twitterURL": "https://twitter.com/meMoodyMind"
     },
     {
       "id": 8,
@@ -71,6 +71,15 @@
       "linkedinURL": "https://www.linkedin.com/in/garima-mangal-176a63200/",
       "githubURL": "https://github.com/AZU-URE",
       "twitterURL": "https://twitter.com/AZU_URE"
+    },
+    {
+      "id": 9,
+      "name": "Akhilesh Manda",
+      "batch": "2020",
+      "imgURL": "https://i.ibb.co/4Rb9RRT/myimage.jpg",
+      "linkedinURL":"https://www.linkedin.com/in/akhilesh-manda-7a9b661b8/",
+      "githubURL": "https://github.com/AkhileshManda",
+      "twitterURL": "https://twitter.com/Akhiles63114004"
     }
   ]
 }
