@@ -20,6 +20,15 @@
     },
     {
       "id": 3,
+      "name": "Rahul Bansal",
+      "batch": "2019",
+      "imgURL": "https://i.ibb.co/S0v6KWh/IMG-20201214-WA0000.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/rahulbansal52/",
+      "githubURL": "https://github.com/rahulbansal0502",
+      "twitterURL": "https://twitter.com/itz_rahul_rj"
+    },
+    {
+      "id": 4,
       "name": "Rahul Badgujar",
       "batch": "2021",
       "imgURL": "https://i.imgur.com/m8wkqek.jpg",
@@ -28,7 +37,7 @@
       "twitterURL": "https://twitter.com/imRB7here"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Aviral Tandon",
       "batch": "2019",
       "imgURL": "https://i.ibb.co/MyT4yHh/Whats-App-Image-2021-10-03-at-22-12-35.jpg",
@@ -37,7 +46,7 @@
       "twitterURL": "https://twitter.com/AviralTandon5"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Himanshu Sanecha",
       "batch": "2019",
       "imgURL": "https://i.ibb.co/YyqYYHB/myphoto.jpg",
