@@ -107,6 +107,15 @@
       "linkedinURL":"https://www.linkedin.com/in/tirth5828",
       "githubURL": "https://github.com/tirth5828",
       "twitterURL": "https://twitter.com/tirth5828"
-    }
+    },
+    {
+      "id": 13,
+      "name": "Shivam Shukla",
+      "batch": "2021",
+      "imgURL": "https://imgur.com/lmh3q9e",
+      "linkedinURL":"https://www.linkedin.com/in/shivamrshukla/",
+      "githubURL": "https://github.com/shiv2299",
+      "twitterURL": "https://twitter.com/shivam2299"
+    },
   ]
 }
