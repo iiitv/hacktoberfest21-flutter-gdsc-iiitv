@@ -44,6 +44,15 @@
       "linkedinURL": "https://www.linkedin.com/in/himanshusanecha/",
       "githubURL": "https://github.com/himanshusanecha",
       "twitterURL": ""
+    },
+    {
+      "id": 6,
+      "name": "Garima Mangal",
+      "batch": "2020",
+      "imgURL": "https://i.ibb.co/g49fgrq/mi-Pk9xu3-400x400.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/garima-mangal-176a63200/",
+      "githubURL": "https://github.com/AZU-URE",
+      "twitterURL": "https://twitter.com/AZU_URE"
     }
   ]
 }
