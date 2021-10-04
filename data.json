@@ -44,6 +44,15 @@
       "linkedinURL": "https://www.linkedin.com/in/himanshusanecha/",
       "githubURL": "https://github.com/himanshusanecha",
       "twitterURL": ""
+    },
+    {
+      "id": 6,
+      "name": "Dhruv Dave",
+      "batch": "2020",
+      "imgURL": "https://ibb.co/phj2YrT",
+      "linkedinURL": "www.linkedin.com/in/dhruv1201",
+      "githubURL": "https://github.com/DhruvDave12",
+      "twitterURL": "https://twitter.com/DhruvDa74935138"
     }
   ]
 }
