@@ -45,8 +45,7 @@
       "githubURL": "https://github.com/himanshusanecha",
       "twitterURL": ""
     },
-
-      {
+    {
             "id": 6,
             "name": "Riya Parikh",
             "batch": "2021",
@@ -54,7 +53,6 @@
             "linkedinURL":"<https://www.linkedin.com/in/riya-parikh-27b345196",
             "githubURL": "https://github.com/RiyaParikh0112",
             "twitterURL": "https://twitter.com/meMoodyMind"
-   }
-
+    }
   ]
 }
