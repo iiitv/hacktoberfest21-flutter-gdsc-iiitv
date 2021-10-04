@@ -44,6 +44,15 @@
       "linkedinURL": "https://www.linkedin.com/in/himanshusanecha/",
       "githubURL": "https://github.com/himanshusanecha",
       "twitterURL": ""
+    },
+    {
+      "id": 5,
+      "name": "Keshav Agarwal",
+      "batch": "2019",
+      "imgURL": "https://i.ibb.co/yX1939h/Whats-App-Image-2021-09-17-at-3-55-25-PM.jpg",
+      "linkedinURL":"https://www.linkedin.com/in/keshavagarwal1710/",
+      "githubURL": "https://github.com/The-Keshav-Agarwal",
+      "twitterURL": "https://twitter.com/keshav_aga"
     }
   ]
 }
