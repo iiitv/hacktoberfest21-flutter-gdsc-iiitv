@@ -89,6 +89,15 @@
       "linkedinURL": "https://www.linkedin.com/in/abhishek-singh-8191991b8/",
       "githubURL": "https://github.com/5-Abhi-5",
       "twitterURL": ""
+    },
+    {
+      "id": 11,
+      "name": "Kamal Kumar",
+      "batch": "2020",
+      "picture_url": "https://i.ibb.co/k9N4zLQ/photo-2021-06-14-16-31-15.jpg",
+      "linkedin": "https://www.linkedin.com/in/kamal-kumar-7421921aa/",
+      "github": "https://github.com/kamalkumar7",
+      "twitterURL": ""
     }
   ]
 }
