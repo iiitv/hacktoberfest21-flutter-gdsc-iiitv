@@ -94,9 +94,9 @@
       "id": 11,
       "name": "Kamal Kumar",
       "batch": "2020",
-      "picture_url": "https://i.ibb.co/k9N4zLQ/photo-2021-06-14-16-31-15.jpg",
-      "linkedin": "https://www.linkedin.com/in/kamal-kumar-7421921aa/",
-      "github": "https://github.com/kamalkumar7",
+      "imgURL": "https://i.ibb.co/k9N4zLQ/photo-2021-06-14-16-31-15.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/kamal-kumar-7421921aa/",
+      "githubURL": "https://github.com/kamalkumar7",
       "twitterURL": ""
     }
   ]
