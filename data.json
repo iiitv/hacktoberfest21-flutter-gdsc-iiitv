@@ -107,6 +107,15 @@
       "linkedinURL":"https://www.linkedin.com/in/tirth5828",
       "githubURL": "https://github.com/tirth5828",
       "twitterURL": "https://twitter.com/tirth5828"
+    },
+    {
+      "id": 13,
+      "name": "YASH BORIKAR",
+      "batch": "2020",
+      "imgURL": "https://i.ibb.co/Tq090Yg/Profile.jpg",
+      "linkedinURL": "",
+      "githubURL": "https://github.com/yash-borikar",
+      "twitterURL": ""
     }
   ]
 }
