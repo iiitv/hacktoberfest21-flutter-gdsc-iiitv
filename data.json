@@ -44,13 +44,15 @@
       "linkedinURL": "https://www.linkedin.com/in/himanshusanecha/",
       "githubURL": "https://github.com/himanshusanecha",
       "twitterURL": ""
-    }
+    },
     {
       "id": 5,
       "name": "YASH BORIKAR",
       "batch": "2020",
       "imgURL": "https://i.ibb.co/Tq090Yg/Profile.jpg",
-      "githubURL": "https://github.com/yash-borikar"
+      "linkedinURL": "",
+      "githubURL": "https://github.com/yash-borikar",
+      "twitterURL": ""
     }
   ]
 }
