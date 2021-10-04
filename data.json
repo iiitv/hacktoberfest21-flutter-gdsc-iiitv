@@ -80,6 +80,15 @@
       "linkedinURL":"https://www.linkedin.com/in/akhilesh-manda-7a9b661b8/",
       "githubURL": "https://github.com/AkhileshManda",
       "twitterURL": "https://twitter.com/Akhiles63114004"
+    },
+    {
+      "id": 10,
+      "name": "Abhishek Singh",
+      "batch": "2020",
+      "imgURL": "https://i.ibb.co/d6Nnzwt/IMG-20210321-201037.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/abhishek-singh-8191991b8/",
+      "githubURL": "https://github.com/5-Abhi-5",
+      "twitterURL": ""
     }
   ]
 }
