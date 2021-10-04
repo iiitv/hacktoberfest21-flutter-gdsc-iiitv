@@ -26,6 +26,16 @@
       "linkedinURL": "https://www.linkedin.com/in/rahulbadgujar/",
       "githubURL": "https://github.com/rahul-badgujar",
       "twitterURL": "https://twitter.com/imRB7here"
+    },
+    {
+      "id": 4,
+      "name": "Aviral Tandon",
+      "batch": "2019",
+      "imgURL": "https://i.ibb.co/MyT4yHh/Whats-App-Image-2021-10-03-at-22-12-35.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/aviral-tandon-b852891a1/",
+      "githubURL": "https://github.com/aviraltandon21",
+      "twitterURL": "https://twitter.com/AviralTandon5"
     }
+    
   ]
 }
