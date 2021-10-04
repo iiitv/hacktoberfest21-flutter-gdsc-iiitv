@@ -44,6 +44,16 @@
       "linkedinURL": "https://www.linkedin.com/in/himanshusanecha/",
       "githubURL": "https://github.com/himanshusanecha",
       "twitterURL": ""
+    },
+    {
+      "id": 6,
+      "name": "Akhilesh Manda",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/4Rb9RRT/myimage.jpg",
+      "twitter": "https://twitter.com/Akhiles63114004",
+      "github":"https://github.com/AkhileshManda",
+      "linkedin": "https://www.linkedin.com/in/akhilesh-manda-7a9b661b8/",
+      "quote": "Move fast and break things. Unless you are breaking stuff, you are not moving fast enough."
     }
   ]
 }
