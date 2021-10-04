@@ -125,6 +125,16 @@
       "linkedinURL": "www.linkedin.com/in/dhruv1201",
       "githubURL": "https://github.com/DhruvDave12",
       "twitterURL": "https://twitter.com/DhruvDa74935138"
-    }
+    },
+    {
+      "id":15,
+      "name": "Bibhav Shah",
+      "batch": "2020",
+      "imgURL": "https://i.ibb.co/4TbbW4p/Whats-App-Image-2021-10-04-at-19-49-07.jpg",
+      "githubURL":"https://github.com/Bibhavshah",
+      "linkedinURL": "https://www.linkedin.com/in/bibhav-shah-32586b1ab/",
+      "twitterURL": "https://twitter.com/home?lang=en"
+}
+
   ]
 }
