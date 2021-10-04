@@ -44,6 +44,17 @@
       "linkedinURL": "https://www.linkedin.com/in/himanshusanecha/",
       "githubURL": "https://github.com/himanshusanecha",
       "twitterURL": ""
-    }
+    },
+
+      {
+            "id": 6,
+            "name": "Riya Parikh",
+            "batch": "2021",
+            "imgURL": "https://i.ibb.co/8cS47ZZ/Whats-App-Image-2021-10-04-at-19-24-42.jpg",
+            "linkedinURL":"<https://www.linkedin.com/in/riya-parikh-27b345196",
+            "githubURL": "https://github.com/RiyaParikh0112",
+            "twitterURL": "https://twitter.com/meMoodyMind"
+   }
+
   ]
 }
