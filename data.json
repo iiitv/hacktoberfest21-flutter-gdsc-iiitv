@@ -179,6 +179,15 @@
       "linkedinURL":"https://www.linkedin.com/in/aastha-chauhan-b095661b5/",
       "githubURL": "https://github.com/aastha01chauhan",
       "twitterURL": "https://twitter.com/aastha01chauhan"
-}
+    },
+      {
+     "id": 20,
+      "name": "K Goutham",
+      "batch": "2020",
+      "imgURL": "https://i.ibb.co/VTc89df/me.jpg",
+      "linkedinURL":"https://www.linkedin.com/in/goutham-kundena-80244a222/",
+      "githubURL": "https://github.com/KGoutham7214",
+      "twitterURL": "https://twitter.com/KundenaGoutham"
+    }
   ]
 }
