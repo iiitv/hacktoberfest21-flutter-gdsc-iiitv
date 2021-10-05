@@ -143,6 +143,15 @@
        "linkedinURL":"https://www.linkedin.com/in/aditputrafirmansyah/",
        "githubURL": "https://github.com/Adithya-13",
        "twitterURL": "https://twitter.com/Adithya_13"
-     }
+     },
+     {
+      "id": 17,
+      "name": "Dhruv Rashiya",
+      "batch":"2020",
+      "imgURL": "https://i.ibb.co/3RkjckN/Whats-App-Image-2021-10-04-at-7-29-04-PM.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/dhruv-rashiya-6164791b8",
+      "githubURL": "https://github.com/rashiyadhruv",
+     "twitterURL":"https://twitter.com/DhruvRashiya?t=Uu-EWAfpwq7UPa9VhLv8TQ&s=08"
+    }
   ]
 }
