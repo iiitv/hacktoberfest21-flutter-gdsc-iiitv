@@ -134,7 +134,15 @@
       "githubURL":"https://github.com/Bibhavshah",
       "linkedinURL": "https://www.linkedin.com/in/bibhav-shah-32586b1ab/",
       "twitterURL": "https://twitter.com/home?lang=en"
-}
-
+     },
+     {
+       "id": 16,
+       "name": "Adithya Firmansyah Putra",
+       "batch": 2020",
+       "imgURL": "https://imgur.com/RhyJUzm",
+       "linkedinURL":"https://www.linkedin.com/in/aditputrafirmansyah/",
+       "githubURL": "https://github.com/Adithya-13",
+       "twitterURL": "https://twitter.com/Adithya_13"
+     }
   ]
 }
