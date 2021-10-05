@@ -134,7 +134,16 @@
       "githubURL":"https://github.com/Bibhavshah",
       "linkedinURL": "https://www.linkedin.com/in/bibhav-shah-32586b1ab/",
       "twitterURL": "https://twitter.com/home?lang=en"
-}
+     },
+     {
+       "id": 1,
+       "name": "Abhishek Yadav",
+       "batch": "2020",
+       "imgURL": "https://ibb.co/vLt7wxW",
+       "githubURL": "https://github.com/AIABHISHEK",
+       "linkedinURL": "https://www.linkedin.com/in/abhishek-yadav-636580201",
+       "twitterURL": "https://twitter.com/Abhishe06488814?s=09"
+     }
 
   ]
 }
