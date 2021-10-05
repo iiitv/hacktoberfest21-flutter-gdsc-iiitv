@@ -136,6 +136,15 @@
       "twitterURL": "https://twitter.com/home?lang=en"
      },
      {
+       "id": 1,
+       "name": "Abhishek Yadav",
+       "batch": "2020",
+       "imgURL": "https://i.ibb.co/ssB0mv4/IMG-20211002-093009329-HDR-2.jpg",
+       "githubURL": "https://github.com/AIABHISHEK",
+       "linkedinURL": "https://www.linkedin.com/in/abhishek-yadav-636580201",
+       "twitterURL": "https://twitter.com/Abhishe06488814?s=09"
+     },
+    {
        "id": 16,
        "name": "Adithya Firmansyah Putra",
        "batch": "2020",
