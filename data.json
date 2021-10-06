@@ -197,6 +197,15 @@
       "linkedinURL":"https://www.linkedin.com/in/manvendra-prasad-38b1781b7/",
       "githubURL": "https://github.com/Manv3ndra",
       "twitterURL": "https://twitter.com/manvendra2702"
+    },
+    {
+      "id": 22,
+      "name": "Yukta Gopalani",
+      "batch": "2023",
+      "imgURL": "https://i.imgur.com/lXGcTSc.jpeg",
+      "linkedinURL":"https://www.linkedin.com/in/yukta-gopalani/",
+      "githubURL": "https://github.com/yuktagopalani",
+      "twitterURL": ""
     }
   ]
 }
