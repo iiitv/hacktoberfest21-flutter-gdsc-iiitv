@@ -180,7 +180,7 @@
       "githubURL": "https://github.com/aastha01chauhan",
       "twitterURL": "https://twitter.com/aastha01chauhan"
     },
-      {
+    {
      "id": 20,
       "name": "K Goutham",
       "batch": "2020",
@@ -188,6 +188,15 @@
       "linkedinURL":"https://www.linkedin.com/in/goutham-kundena-80244a222/",
       "githubURL": "https://github.com/KGoutham7214",
       "twitterURL": "https://twitter.com/KundenaGoutham"
-    }
+    },
+    {
+      "id": 21,
+      "name": "Manvendra Prasad",
+      "batch": "2024",
+      "imgURL": "https://ibb.co/3msWwd3",
+      "linkedinURL":"https://www.linkedin.com/in/manvendra-prasad-38b1781b7/",
+      "githubURL": "https://github.com/Manv3ndra",
+      "twitterURL": "https://twitter.com/manvendra2702"
+    },
   ]
 }
