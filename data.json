@@ -200,6 +200,15 @@
     },
     {
       "id": 22,
+      "name": "Anubhav Madhav",
+      "batch": "2018",
+      "imgURL": "https://i.imgur.com/AMXT0K9.jpg",
+      "linkedinURL":"https://www.linkedin.com/in/anubhav-madhav/",
+      "githubURL": "https://github.com/AnubhavMadhav",
+      "twitterURL": "https://twitter.com/Anubhav_Madhav"
+    },
+    {
+      "id": 23,
       "name": "Yukta Gopalani",
       "batch": "2023",
       "imgURL": "https://i.imgur.com/lXGcTSc.jpeg",
