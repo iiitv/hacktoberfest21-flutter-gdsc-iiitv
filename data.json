@@ -224,6 +224,15 @@
       "linkedinURL":"https://www.linkedin.com/in/yukta-gopalani/",
       "githubURL": "https://github.com/yuktagopalani",
       "twitterURL": ""      
-  }
+  },
+  {
+    "id": 24,
+    "name": "Lalit",
+    "batch": "2024",
+    "imgURL": "https://imgur.com/a/1Fs3vcR",
+    "linkedinURL":"https://www.linkedin.com/in/lalit-singh-60990a1bb/",
+    "githubURL": "https://github.com/lalit-commits",
+    "twitterURL": "https://twitter.com/lit__lalit"      
+}
   ]
 }
