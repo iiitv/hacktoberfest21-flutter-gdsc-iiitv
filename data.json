@@ -224,6 +224,15 @@
       "linkedinURL":"https://www.linkedin.com/in/yukta-gopalani/",
       "githubURL": "https://github.com/yuktagopalani",
       "twitterURL": ""      
+  },
+  {
+      "id": 24,
+      "name": "Aman Srivastava",
+      "batch": "2022",
+      "imgURL": "https://i.imgur.com/cMTUJBe.jpg",
+      "linkedinURL":"https://www.linkedin.com/in/aman-srivastava-973297199/",
+      "githubURL": "https://github.com/aman1210/",
+      "twitterURL": ""      
   }
   ]
 }
