@@ -233,6 +233,33 @@
     "linkedinURL":"https://www.linkedin.com/in/lalit-singh-60990a1bb/",
     "githubURL": "https://github.com/lalit-commits",
     "twitterURL": "https://twitter.com/lit__lalit"      
-}
+},
+    {
+    "name": "Vaibhav Agrawal",
+    "batch": "2023",
+    "imgURL": "https://i.imgur.com/v1Mx7Fi.jpg",
+    "linkedinURL":"https://www.linkedin.com/in/VaibhavMNNIT/",
+    "githubURL": "https://github.com/Vaibhav763",
+    "twitterURL": ""      
+  },
+   {
+      "id": 24,
+      "name": "Muhammad Faris Hadi Mulyo",
+      "batch": "2021",
+      "imgURL": "https://i.imgur.com/T7jmIDL.png",
+      "linkedinURL":"https://www.linkedin.com/in/muhammad-faris-hadi-mulyo-035941202/",
+      "githubURL": "https://github.com/Fariszz",
+      "twitterURL": "https://twitter.com/fa_zzz19"      
+  },
+  {
+            "id": 24,
+            "name": "Abhishek D",
+            "batch": "2019",
+            "imgURL": "https://imgur.com/a/GNcNrJ2",
+            "linkedinURL":"https://www.linkedin.com/in/abhishek-dabberu-4b23a51a5/",
+            "githubURL": "https://github.com/Abhishek-dab",
+            "twitterURL": "https://twitter.com/Abhishek_Dab"
+   }
   ]
 }
+
