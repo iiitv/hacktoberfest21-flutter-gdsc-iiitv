@@ -277,6 +277,15 @@
       "linkedinURL":"",
       "githubURL": "https://github.com/gavrasihombing",
       "twitterURL": ""
+    },
+    {
+      "id": 30,
+      "name": "Yatendra Kumar",
+      "batch": "2021",
+      "imgURL": "",
+      "linkedinURL":"https://www.linkedin.com/in/yatendra-kumar-0245511b9/",
+      "githubURL": "https://github.com/yatendra2001",
+      "twitterURL": "https://twitter.com/Yatendr67513831"
     }
       ]
 }
