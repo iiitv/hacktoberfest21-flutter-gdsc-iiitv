@@ -259,7 +259,8 @@
             "linkedinURL":"https://www.linkedin.com/in/abhishek-dabberu-4b23a51a5/",
             "githubURL": "https://github.com/Abhishek-dab",
             "twitterURL": "https://twitter.com/Abhishek_Dab"
-   },{
+   },
+    {
       "id": 28,
       "name": "Aman Srivastava",
       "batch": "2018",
@@ -267,7 +268,15 @@
       "linkedinURL":"https://www.linkedin.com/in/aman-srivastava-973297199/",
       "githubURL": "https://github.com/aman1210/",
       "twitterURL": ""
-   }
-  ]
-}
+   },
+    {
+      "id": 29,
+      "name": "Gavra Sihombing",
+      "batch": "2021",
+      "imgURL": "-",
+      "linkedinURL":"-",
+      "githubURL": "https://github.com/gavrasihombing",
+      "twitterURL": ""
+    }
+      ]
 
