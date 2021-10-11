@@ -295,6 +295,16 @@
       "linkedinURL":"https://www.linkedin.com/in/yatendra-kumar-0245511b9/",
       "githubURL": "https://github.com/yatendra2001",
       "twitterURL": "https://twitter.com/Yatendr67513831"
-    }
+    },
+    {
+      "id": 32,
+          "name": "Ebhomenye Emmanuel",
+          "batch": "2021",
+          "imgURL": "https://drive.google.com/file/d/1NJM6635lPugpAGdSQj3kQDNbemCk8oY_/view?usp=sharing",
+          "linkedinURL":"https://www.linkedin.com/in/ebhomenye-emmanuel-b32191187/",
+          "githubURL": "https://github.com/EbhomenyeEmmanuel",
+          "twitterURL": "https://twitter.com/noObject01"
+        }
+
   ]
 }
