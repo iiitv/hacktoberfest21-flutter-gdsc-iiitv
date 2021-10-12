@@ -304,6 +304,24 @@
       "linkedinURL":"https://www.linkedin.com/in/ashwith-poojary-8384471a6/",
       "githubURL": "https://github.com/Ashwith25",
       "twitterURL": ""
+     },
+    {
+      "id": 32,
+          "name": "Ebhomenye Emmanuel",
+          "batch": "2021",
+          "imgURL": "",
+          "linkedinURL":"https://www.linkedin.com/in/ebhomenye-emmanuel-b32191187/",
+          "githubURL": "https://github.com/EbhomenyeEmmanuel",
+          "twitterURL": "https://twitter.com/noObject01"
+        },
+          {
+      "id": 22,
+      "name": "Hanif Naufal",
+      "batch": "2021",
+      "imgURL": "https://i.imgur.com/dUsLUYU.png",
+      "linkedinURL": "https://www.linkedin.com/in/khairunnaufal-hanif/",
+      "githubURL": "https://github.com/Digisata",
+      "twitterURL": "https://twitter.com/digisata"
     }
   ]
 }
