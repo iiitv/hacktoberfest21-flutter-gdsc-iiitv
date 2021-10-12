@@ -340,6 +340,15 @@
   "linkedinURL":"linkedin.com/in/angad-manroy-25b260200",
   "githubURL": "https://github.com/AngadManroy",
   "twitterURL": ""
-}
+},
+    {
+      "id": 35,
+      "name": "Shubham Saini",
+      "batch": "2019",
+      "imgURL": "",
+      "linkedinURL":"",
+      "githubURL": "https://github.com/saini3901",
+      "twitterURL": ""
+    }
   ]
 }
