@@ -322,6 +322,15 @@
       "linkedinURL": "https://www.linkedin.com/in/khairunnaufal-hanif/",
       "githubURL": "https://github.com/Digisata",
       "twitterURL": "https://twitter.com/digisata"
-    }
+    },
+    {
+      "id": 33,
+      "name": "Abdul Qadher",
+      "batch": "2021",
+      "imgURL": "https://i.imgur.com/KQMUsnv.jpeg",
+      "linkedinURL":"https://www.linkedin.com/in/abdul-qadher-pm-14656a1ba/",
+      "githubURL": "https://github.com/qadher",
+      "twitterURL": "https://twitter.com/PmQadher"
+}
   ]
 }
