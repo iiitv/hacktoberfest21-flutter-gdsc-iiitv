@@ -59,7 +59,7 @@
       "name": "Riya Parikh",
       "batch": "2021",
       "imgURL": "https://i.ibb.co/8cS47ZZ/Whats-App-Image-2021-10-04-at-19-24-42.jpg",
-      "linkedinURL":"<https://www.linkedin.com/in/riya-parikh-27b345196",
+      "linkedinURL": "<https://www.linkedin.com/in/riya-parikh-27b345196",
       "githubURL": "https://github.com/RiyaParikh0112",
       "twitterURL": "https://twitter.com/meMoodyMind"
     },
@@ -77,7 +77,7 @@
       "name": "Akhilesh Manda",
       "batch": "2020",
       "imgURL": "https://i.ibb.co/4Rb9RRT/myimage.jpg",
-      "linkedinURL":"https://www.linkedin.com/in/akhilesh-manda-7a9b661b8/",
+      "linkedinURL": "https://www.linkedin.com/in/akhilesh-manda-7a9b661b8/",
       "githubURL": "https://github.com/AkhileshManda",
       "twitterURL": "https://twitter.com/Akhiles63114004"
     },
@@ -104,7 +104,7 @@
       "name": "Tirth Joshi",
       "batch": "2020",
       "imgURL": "https://i.ibb.co/LRYHcK7/IMG-9298-Copy.jpg",
-      "linkedinURL":"https://www.linkedin.com/in/tirth5828",
+      "linkedinURL": "https://www.linkedin.com/in/tirth5828",
       "githubURL": "https://github.com/tirth5828",
       "twitterURL": "https://twitter.com/tirth5828"
     },
@@ -127,65 +127,74 @@
       "twitterURL": "https://twitter.com/DhruvDa74935138"
     },
     {
-      "id":15,
+      "id": 15,
       "name": "Bibhav Shah",
       "batch": "2020",
       "imgURL": "https://i.ibb.co/4TbbW4p/Whats-App-Image-2021-10-04-at-19-49-07.jpg",
-      "githubURL":"https://github.com/Bibhavshah",
+      "githubURL": "https://github.com/Bibhavshah",
       "linkedinURL": "https://www.linkedin.com/in/bibhav-shah-32586b1ab/",
       "twitterURL": "https://twitter.com/home?lang=en"
-     },
-     {
-       "id": 1,
-       "name": "Abhishek Yadav",
-       "batch": "2020",
-       "imgURL": "https://i.ibb.co/ssB0mv4/IMG-20211002-093009329-HDR-2.jpg",
-       "githubURL": "https://github.com/AIABHISHEK",
-       "linkedinURL": "https://www.linkedin.com/in/abhishek-yadav-636580201",
-       "twitterURL": "https://twitter.com/Abhishe06488814?s=09"
-     },
+    },
     {
-       "id": 16,
-       "name": "Adithya Firmansyah Putra",
-       "batch": "2020",
-       "imgURL": "https://i.imgur.com/RhyJUzm.png",
-       "linkedinURL":"https://www.linkedin.com/in/aditputrafirmansyah/",
-       "githubURL": "https://github.com/Adithya-13",
-       "twitterURL": "https://twitter.com/Adithya_13"
-     },
-     {
+      "id": 1,
+      "name": "Abhishek Yadav",
+      "batch": "2020",
+      "imgURL": "https://i.ibb.co/ssB0mv4/IMG-20211002-093009329-HDR-2.jpg",
+      "githubURL": "https://github.com/AIABHISHEK",
+      "linkedinURL": "https://www.linkedin.com/in/abhishek-yadav-636580201",
+      "twitterURL": "https://twitter.com/Abhishe06488814?s=09"
+    },
+    {
+      "id": 16,
+      "name": "Adithya Firmansyah Putra",
+      "batch": "2020",
+      "imgURL": "https://i.imgur.com/RhyJUzm.png",
+      "linkedinURL": "https://www.linkedin.com/in/aditputrafirmansyah/",
+      "githubURL": "https://github.com/Adithya-13",
+      "twitterURL": "https://twitter.com/Adithya_13"
+    },
+    {
       "id": 17,
       "name": "Dhruv Rashiya",
-      "batch":"2020",
+      "batch": "2020",
       "imgURL": "https://i.ibb.co/3RkjckN/Whats-App-Image-2021-10-04-at-7-29-04-PM.jpg",
       "linkedinURL": "https://www.linkedin.com/in/dhruv-rashiya-6164791b8",
       "githubURL": "https://github.com/rashiyadhruv",
-     "twitterURL":"https://twitter.com/DhruvRashiya?t=Uu-EWAfpwq7UPa9VhLv8TQ&s=08"
+      "twitterURL": "https://twitter.com/DhruvRashiya?t=Uu-EWAfpwq7UPa9VhLv8TQ&s=08"
     },
     {
-      "id":18,
-      "name":"Pankaj Singh Kanyal",
-      "batch":"2020",
-      "imgURL":"https://i.imgur.com/EqUjZFZ.png",
-      "linkedinURL":"https://www.linkedin.com/in/pankaj-kanyal-2060291b2/",
-      "githubURL":"https://github.com/pankajsingh016",
-      "twitterURL":"https://twitter.com/Pankajsingh_016"
+      "id": 18,
+      "name": "Mochammad Faizal Mahromi",
+      "batch": "2020",
+      "imgURL": "https://i.imgur.com/0z8kfUk.jpeg",
+      "linkedinURL": "https://www.linkedin.com/in/mochammad-faizal-mahromi-ba15191b9/",
+      "githubURL": "https://github.com/faisal-t",
+      "twitterURL": "https://twitter.com/faisal-t"
+    },
+    {
+      "id": 18,
+      "name": "Pankaj Singh Kanyal",
+      "batch": "2020",
+      "imgURL": "https://i.imgur.com/EqUjZFZ.png",
+      "linkedinURL": "https://www.linkedin.com/in/pankaj-kanyal-2060291b2/",
+      "githubURL": "https://github.com/pankajsingh016",
+      "twitterURL": "https://twitter.com/Pankajsingh_016"
     },
     {
       "id": 19,
       "name": "Aastha Chauhan",
       "batch": "2024",
       "imgURL": "https://i.ibb.co/khbc6Tc/IMG-9468.jpg",
-      "linkedinURL":"https://www.linkedin.com/in/aastha-chauhan-b095661b5/",
+      "linkedinURL": "https://www.linkedin.com/in/aastha-chauhan-b095661b5/",
       "githubURL": "https://github.com/aastha01chauhan",
       "twitterURL": "https://twitter.com/aastha01chauhan"
     },
     {
-     "id": 20,
+      "id": 20,
       "name": "K Goutham",
       "batch": "2020",
       "imgURL": "https://i.ibb.co/VTc89df/me.jpg",
-      "linkedinURL":"https://www.linkedin.com/in/goutham-kundena-80244a222/",
+      "linkedinURL": "https://www.linkedin.com/in/goutham-kundena-80244a222/",
       "githubURL": "https://github.com/KGoutham7214",
       "twitterURL": "https://twitter.com/KundenaGoutham"
     },
@@ -194,18 +203,98 @@
       "name": "Manvendra Prasad",
       "batch": "2024",
       "imgURL": "https://i.ibb.co/HT2Y04S/Manvendra-Prasad.jpg",
-      "linkedinURL":"https://www.linkedin.com/in/manvendra-prasad-38b1781b7/",
+      "linkedinURL": "https://www.linkedin.com/in/manvendra-prasad-38b1781b7/",
       "githubURL": "https://github.com/Manv3ndra",
       "twitterURL": "https://twitter.com/manvendra2702"
     },
     {
       "id": 22,
-      "name": "Hanif Naufal",
+      "name": "Anubhav Madhav",
+      "batch": "2018",
+      "imgURL": "https://i.imgur.com/AMXT0K9.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/anubhav-madhav/",
+      "githubURL": "https://github.com/AnubhavMadhav",
+      "twitterURL": "https://twitter.com/Anubhav_Madhav"
+    },
+    {
+      "id": 23,
+      "name": "Yukta Gopalani",
+      "batch": "2023",
+      "imgURL": "https://i.imgur.com/lXGcTSc.jpeg",
+      "linkedinURL": "https://www.linkedin.com/in/yukta-gopalani/",
+      "githubURL": "https://github.com/yuktagopalani",
+      "twitterURL": ""
+    },
+    {
+      "id": 24,
+      "name": "Lalit",
+      "batch": "2024",
+      "imgURL": "https://i.imgur.com/1n5M2Gx.jpeg",
+      "linkedinURL": "https://www.linkedin.com/in/lalit-singh-60990a1bb/",
+      "githubURL": "https://github.com/lalit-commits",
+      "twitterURL": "https://twitter.com/lit__lalit"
+    },
+    {
+      "name": "Vaibhav Agrawal",
+      "batch": "2023",
+      "imgURL": "https://i.imgur.com/v1Mx7Fi.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/VaibhavMNNIT/",
+      "githubURL": "https://github.com/Vaibhav763",
+      "twitterURL": ""
+    },
+    {
+      "id": 24,
+      "name": "Muhammad Faris Hadi Mulyo",
       "batch": "2021",
-      "imgURL": "https://imgur.com/dUsLUYU",
-      "linkedinURL": "https://www.linkedin.com/in/khairunnaufal-hanif/",
-      "githubURL": "https://github.com/Digisata",
-      "twitterURL": "https://twitter.com/digisata"
+      "imgURL": "https://i.imgur.com/T7jmIDL.png",
+      "linkedinURL": "https://www.linkedin.com/in/muhammad-faris-hadi-mulyo-035941202/",
+      "githubURL": "https://github.com/Fariszz",
+      "twitterURL": "https://twitter.com/fa_zzz19"
+    },
+    {
+      "id": 24,
+      "name": "Abhishek D",
+      "batch": "2019",
+      "imgURL": "https://i.imgur.com/kOGY0DH.png",
+      "linkedinURL": "https://www.linkedin.com/in/abhishek-dabberu-4b23a51a5/",
+      "githubURL": "https://github.com/Abhishek-dab",
+      "twitterURL": "https://twitter.com/Abhishek_Dab"
+    },
+    {
+      "id": 28,
+      "name": "Aman Srivastava",
+      "batch": "2018",
+      "imgURL": "https://i.imgur.com/cMTUJBe.jpg",
+      "linkedinURL": "https://www.linkedin.com/in/aman-srivastava-973297199/",
+      "githubURL": "https://github.com/aman1210/",
+      "twitterURL": ""
+    },
+    {
+      "id": 29,
+      "name": "Gavra Sihombing",
+      "batch": "2021",
+      "imgURL": "",
+      "linkedinURL": "",
+      "githubURL": "https://github.com/gavrasihombing",
+      "twitterURL": ""
+    },
+    {
+      "id": 30,
+      "name": "Ansh Rathod",
+      "batch": "2021",
+      "imgURL": "https://i.imgur.com/kOGY0DH.png",
+      "linkedinURL": "https://www.linkedin.com/in/ansh-rathod-478a81210/",
+      "githubURL": "https://github.com/Ansh-Rathod",
+      "twitterURL": "https://twitter.com/appiirathod"
+},
+    {
+  "id": 31,
+      "name": "Yatendra Kumar",
+      "batch": "2021",
+      "imgURL": "",
+      "linkedinURL":"https://www.linkedin.com/in/yatendra-kumar-0245511b9/",
+      "githubURL": "https://github.com/yatendra2001",
+      "twitterURL": "https://twitter.com/Yatendr67513831"
     }
   ]
 }
