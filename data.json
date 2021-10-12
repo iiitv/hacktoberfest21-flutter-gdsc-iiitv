@@ -340,6 +340,15 @@
   "linkedinURL":"linkedin.com/in/angad-manroy-25b260200",
   "githubURL": "https://github.com/AngadManroy",
   "twitterURL": ""
-}
+},
+    {
+      "id": 33,
+      "name": "Isaac Anohene",
+      "batch": "2021",
+      "imgURL": "",
+      "linkedinURL":"https://www.linkedin.com/in/anohene1",
+      "githubURL": "https://github.com/anohene1",
+      "twitterURL": "https://twitter.com/anohene1"
+    }
   ]
 }
