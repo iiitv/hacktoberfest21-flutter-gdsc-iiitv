@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'models/avengers.dart';
+import '../models/avengers.dart';
 
 class AvengerDetail extends StatelessWidget {
   final Data data;
