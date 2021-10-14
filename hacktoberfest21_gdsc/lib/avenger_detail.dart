@@ -15,6 +15,7 @@ class AvengerDetail extends StatelessWidget {
             left: 10.0,
             top: MediaQuery.of(context).size.height * 0.12,
             child: Container(
+
               color: Colors.transparent.withOpacity(0),
               child: Column(
                 children: [
@@ -44,7 +45,7 @@ class AvengerDetail extends StatelessWidget {
                       child: SizedBox(
                           height: 40,
                           width: 40,
-                          child: Image.asset('assets/icon/GitHub.png')),
+                          child: Image.asset('assets/icon/GitHub.png.png')),
                     ),
                     SizedBox(width: MediaQuery.of(context).size.width * 0.07),
                     InkWell(
@@ -82,16 +83,16 @@ class AvengerDetail extends StatelessWidget {
               alignment: Alignment.topCenter,
               child: Hero(
                   tag: data.imgURL!,
-                  child: Container(
-                    height: 200.0,
-                    width: 200.0,
-                    decoration: BoxDecoration(
-                        borderRadius:
-                            const BorderRadius.all(Radius.circular(10.0)),
-                        image: DecorationImage(
-                          image: NetworkImage(data.imgURL!),
-                        )),
-                  )),
+                  child: CircleAvatar(
+                    backgroundColor: Colors.teal,
+
+                    radius: 105,
+                    child: CircleAvatar(
+                      radius: 100,
+                      backgroundImage: NetworkImage(data.imgURL!),
+                    ),
+                  )
+              ),
             ),
           )
         ],
@@ -101,9 +102,18 @@ class AvengerDetail extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.teal.withOpacity(0.9),
-      appBar: AppBar(
-        centerTitle: true,
-        title: Text(data.name!),
+      appBar: PreferredSize(
+        
+        preferredSize: const Size.fromHeight(70),
+        child: AppBar(
+          shape: const RoundedRectangleBorder(
+            borderRadius: BorderRadius.vertical(
+              bottom: Radius.circular(25)
+            )
+          ),
+          centerTitle: true,
+          title: Text(data.name!),
+        ),
       ),
       body: Container(
           child: bodyWidget(context),
@@ -114,6 +124,7 @@ class AvengerDetail extends StatelessWidget {
         child: SizedBox(
           child: InkWell(
             child: Container(
+
               color: Colors.teal,
               height: MediaQuery.of(context).size.height / 20,
               // ng: EdgeInsets.all(8.0),paddi

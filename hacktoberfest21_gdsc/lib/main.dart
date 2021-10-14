@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:hacktoberfest21_gdsc/avenger_detail.dart';
 import 'package:hacktoberfest21_gdsc/models/avengers.dart';
@@ -45,9 +46,19 @@ class _HomePageState extends State<HomePage> {
     final double itemWidth = size.width / 2;
 
     return Scaffold(
-      appBar: AppBar(
-        centerTitle: true,
-        title: const Text("GDSC-Hacktoberfest21"),
+      appBar: PreferredSize(
+        
+        preferredSize: const Size.fromHeight(70),
+        child: AppBar(
+          centerTitle: true,
+          title: const Text("GDSC-Hacktoberfest21"),
+          shape: const RoundedRectangleBorder(
+            
+            borderRadius: BorderRadius.vertical(
+              bottom: Radius.circular(25),
+            )
+          ),
+        ),
       ),
       body: dataHub == null
           ? const Center(
@@ -64,52 +75,78 @@ class _HomePageState extends State<HomePage> {
                   },
                 );
               },
-              child: GridView.count(
-                  crossAxisCount: 2,
-                  childAspectRatio: (itemWidth / itemHeight),
-                  children: dataHub!.data
-                      .map((Data avenge) => Padding(
-                            padding: const EdgeInsets.all(2.0),
-                            child: InkWell(
-                              onTap: () {
-                                Navigator.push(
-                                    context,
-                                    MaterialPageRoute(
-                                        builder: (context) => AvengerDetail(
-                                              data: avenge,
-                                            )));
-                              },
-                              child: Card(
-                                elevation: 3.0,
-                                child: Column(
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceEvenly,
-                                  children: [
-                                    Hero(
-                                      tag: avenge.imgURL.toString(),
-                                      child: Container(
-                                        height:
-                                            MediaQuery.of(context).size.height /
-                                                4,
-                                        decoration: BoxDecoration(
-                                          image: DecorationImage(
-                                              image: NetworkImage(
-                                                  avenge.imgURL.toString())),
+              child: Padding(
+                padding: const EdgeInsets.only(top:20,left: 10.0,right: 10.0),
+                child: GridView.count(
+                    crossAxisCount: 2,
+                    childAspectRatio: (itemWidth / itemHeight),
+                    children: dataHub!.data
+                        .map((Data avenge) => Padding(
+                              padding: const EdgeInsets.all(2.0),
+                              child: InkWell(
+                                onTap: () {
+                                  Navigator.push(
+                                      context,
+                                      MaterialPageRoute(
+                                          builder: (context) => AvengerDetail(
+                                                data: avenge,
+                                              )));
+                                },
+                                child: Card(
+
+                                  shadowColor: Colors.teal,
+                                  shape: RoundedRectangleBorder(
+                                    side: const BorderSide(color: Colors.teal,width: 1.5),
+                                    borderRadius: BorderRadius.circular(22)
+                                  ),
+                                  elevation: 4.0,
+                                  child: Column(
+                                    // mainAxisAlignment:
+                                    //     MainAxisAlignment.start,
+                                    children: [
+                                      Hero(
+                                        tag: avenge.imgURL.toString(),
+                                        child: Padding(
+                                          padding: const EdgeInsets.only(left: 10.0,right: 10.0),
+                                          child: SizedBox(
+                                            // width:
+                                            // MediaQuery.of(context).size.width /
+                                            //     4,
+                                            height:
+                                                MediaQuery.of(context).size.height /
+                                                    4.2,
+                                            // decoration: BoxDecoration(
+                                            //   image: DecorationImage(
+                                            //
+                                            //       image: NetworkImage(
+                                            //           avenge.imgURL.toString())),
+                                            // ),
+                                            child: CircleAvatar(
+                                                radius: 90,
+                                                backgroundImage:NetworkImage(avenge.imgURL.toString()),
+                                            ),
+                                          ),
                                         ),
                                       ),
-                                    ),
-                                    Text(avenge.name.toString(),
-                                        style: const TextStyle(
-                                            fontSize: 18.0,
-                                            fontWeight: FontWeight.bold)),
-                                  ],
+                                      Padding(
+                                        padding: const EdgeInsets.only(left: 15.0,right: 15.0),
+                                        child: Text(avenge.name.toString(),
+                                            overflow: TextOverflow.ellipsis,
+
+                                            style: const TextStyle(
+                                                fontSize: 18.0,
+                                                fontWeight: FontWeight.bold)),
+                                      ),
+                                    ],
+                                  ),
                                 ),
                               ),
-                            ),
-                          ))
-                      .toList()),
+                            ))
+                        .toList()),
+              ),
             ),
       bottomNavigationBar: BottomAppBar(
+
         child: SizedBox(
           child: InkWell(
             child: Container(
