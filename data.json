@@ -405,6 +405,15 @@
   "twitterURL": ""
 },
     {
+      "id": 38,
+      "name": "Sunday Malgwi",
+      "batch": "2021",
+      "imgURL": "https://imgur.com/3ZvLkan",
+      "linkedinURL":"linkedin.com/in/sunday-malgwi-aa0405129",
+      "githubURL": "https://github.com/malgwi",
+      "twitterURL": ""
+    },
+           {
   "id": 38,
   "name": "Navidul Haque",
   "batch": "2023",
@@ -413,5 +422,6 @@
   "githubURL": "https://github.com/Navidulhaque",
   "twitterURL": "https://twitter.com/navidul_haque"
 }
+
   ]
 }
