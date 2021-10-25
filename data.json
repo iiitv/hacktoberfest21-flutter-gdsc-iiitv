@@ -404,7 +404,7 @@
   "githubURL": "https://github.com/Hathaipach",
   "twitterURL": ""
 },
-    {
+{
   "id": 38,
   "name": "Navidul Haque",
   "batch": "2023",
@@ -412,6 +412,15 @@
   "linkedinURL":"https://www.linkedin.com/in/navidul-haque-7633871a5/",
   "githubURL": "https://github.com/Navidulhaque",
   "twitterURL": "https://twitter.com/navidul_haque"
+},
+{
+  "id": 39,
+  "name": "Alberto Azinar",
+  "batch": "2023",
+  "imgURL": "",
+  "linkedinURL":"https://www.linkedin.com/in/alberto-azinar-b7b90315a/",
+  "githubURL": "https://github.com/AlbertoYabeda",
+  "twitterURL": "https://twitter.com/a_azinar"
 }
   ]
 }
