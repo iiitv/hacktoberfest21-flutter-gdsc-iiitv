@@ -340,7 +340,6 @@
       "githubURL": "https://github.com/AngadManroy",
       "twitterURL": ""
     },
-
     {
       "id": 35,
       "name": "Manish Kumar",
@@ -370,6 +369,32 @@
     },
     {
       "id": 36,
+      "name": "Rahul Patnaik",
+      "batch": "2023",
+      "imgURL": "",
+      "linkedinURL": "https://www.linkedin.com/in/rahul-patnaik-06/",
+      "githubURL": "https://github.com/clichepasta",
+      "twitterURL": ""
+    },
+    {
+      "id": 37,
+      "name": "Hathaipach Iamnetr",
+      "batch": "2020",
+      "imgURL": "",
+      "linkedinURL": "",
+      "githubURL": "https://github.com/Hathaipach",
+      "twitterURL": ""
+    },
+    {
+      "id": 38,
+      "name": "Tejas Tawde",
+      "batch": "2023",
+      "imgURL": "https://avatars.githubusercontent.com/u/71567185?v=4",
+      "linkedinURL": "https://www.linkedin.com/in/tejas-tawde-2b867b1b8/",
+      "githubURL": "https://github.com/curiousTejas",
+      "twitterURL": "https://twitter.com/TawdeTejas2"
+    },
+           {
       "name": "Luki Sanjaya",
       "batch": "2021",
       "imgURL": "",
