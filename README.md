@@ -1,6 +1,6 @@
 # HacktoberFest21-Flutter-GDSC-IIITV
  - This Repo is for beginner to start contributing to open source (Flutter) in this HacktoberFest 2k21.
- -  Edit the 'data.json' send a PR and wait for it get mergred.
+ -  Edit the 'data.json' send a PR and wait for it get merged.
  -  Also Generate the image you wanna upload from [here](https://imgur.com/upload) & paste the url in 
   ```sh
     "imgURL": ""
