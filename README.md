@@ -41,6 +41,6 @@
  4. Commit the Changes and make a PR and wait it to get merged
 
 # Tech Stack
-  - Flutter
-  - GitHub Pages
+  - [Flutter](https://flutter.dev/docs/get-started/codelab) :  An Open-Source UI development Framework used for Cross-Platform application developed by Google.
+  - [GitHub Pages](https://guides.github.com/features/pages/) : GitHub Pages allows you to freely host and create your websites(static) through GitHub.
    
