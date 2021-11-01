@@ -488,7 +488,7 @@
   "batch": "2023",
   "imgURL": "https://imgur.com/0AkBzo5.png",
   "linkedinURL":"https://www.linkedin.com/in/shivani-bhinge-a19a29217/",
-  "githubURL": "https://github.com/shivanibhinge",
+  "githubURL": "https://github.com/shivanibhinge"
 },{
   "id":42,
   "name": "Gayatri Bhatambarekar",
@@ -497,7 +497,18 @@
   "linkedinURL":"https://www.linkedin.com/in/gayatri-bhatambarekar-b55a2b217/",
   "githubURL": "https://github.com/gayatribkar",
   "twitterURL": ""
-}{
+}, 
+    {
+  "id": 41,
+  "name": "Ajayraj Singh",
+  "batch": "2023",
+  "imgURL": "https://imgur.com/a/FHDajYy",
+  "linkedinURL":"https://www.linkedin.com/in/ajayraj-singh-406b2a13a/",
+  "githubURL": "https://www.github.com/AjayrajSingh",
+  "twitterURL": "https://www.twitter.com/ajayistic"
+
+},
+           {
   "id":43,
   "name": "Shrijal Shrestha",
   "batch": "2023",
