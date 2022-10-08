@@ -474,7 +474,7 @@
   "twitterURL": ""
 },
  {
-   "id": 40
+   "id": 40,
   "name": "Alberto Azinar",
   "batch": "2023",
   "imgURL": "",
@@ -516,6 +516,15 @@
   "linkedinURL":"https://www.linkedin.com/in/shrijal-shrestha-063421181/",
   "githubURL": "https://github.com/shrijalshr",
   "twitterURL": ""
-}
+},
+            {
+  "id":44,
+  "name": "Harsh Sharma",
+  "batch":2025,
+  "imgURL": "",
+  "linkedinURL":"https://www.linkedin.com/in/harsh-sharma-30ba31226/",
+  "githubURL": "https://github.com/harshpanzer",
+  "twitterURL": ""
+            }
   ]
 }
