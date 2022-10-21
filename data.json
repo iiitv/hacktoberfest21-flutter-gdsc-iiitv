@@ -410,51 +410,51 @@
       "githubURL": "https://github.com/lukisanjaya",
       "twitterURL": ""
     },
-{
-  "id": 35,
-  "name": "Ayush Gupta",
-  "batch": "2022",
-  "imgURL": "",
-  "linkedinURL":"https://www.linkedin.com/in/ayush-gupta-a0a037184/",
-  "githubURL": "https://github.com/NuCLeUs2",
-  "twitterURL": ""
-},
-{
-  "id": 36,
-  "name": "Rahul Patnaik",
-  "batch": "2023",
-  "imgURL": "",
-  "linkedinURL":"https://www.linkedin.com/in/rahul-patnaik-06/",
-  "githubURL": "https://github.com/clichepasta",
-  "twitterURL": ""
-},
-{
-  "id": 37,
-  "name": "Hathaipach Iamnetr",
-  "batch": "2020",
-  "imgURL": "",
-  "linkedinURL":"",
-  "githubURL": "https://github.com/Hathaipach",
-  "twitterURL": ""
-},
     {
-      "id": 38,
-      "name": "Arman Nawaz",
-      "batch": "2023",
-      "imgURL": "https://imgur.com/bMW3eck",
-      "linkedinURL":"",
-      "githubURL": "https://github.com/ArmanNawaz",
+      "id": 35,
+      "name": "Ayush Gupta",
+      "batch": "2022",
+      "imgURL": "",
+      "linkedinURL":"https://www.linkedin.com/in/ayush-gupta-a0a037184/",
+      "githubURL": "https://github.com/NuCLeUs2",
       "twitterURL": ""
     },
-{
-  "id": 38,
-  "name": "Navidul Haque",
-  "batch": "2023",
-  "imgURL": "https://pbs.twimg.com/profile_images/1182146232904404992/FiUSghxm_400x400.jpg",
-  "linkedinURL":"https://www.linkedin.com/in/navidul-haque-7633871a5/",
-  "githubURL": "https://github.com/Navidulhaque",
-  "twitterURL": "https://twitter.com/navidul_haque"
-},
+    {
+      "id": 36,
+      "name": "Rahul Patnaik",
+      "batch": "2023",
+      "imgURL": "",
+      "linkedinURL":"https://www.linkedin.com/in/rahul-patnaik-06/",
+      "githubURL": "https://github.com/clichepasta",
+      "twitterURL": ""
+    },
+    {
+      "id": 37,
+      "name": "Hathaipach Iamnetr",
+      "batch": "2020",
+      "imgURL": "",
+      "linkedinURL":"",
+      "githubURL": "https://github.com/Hathaipach",
+      "twitterURL": ""
+    },
+        {
+          "id": 38,
+          "name": "Arman Nawaz",
+          "batch": "2023",
+          "imgURL": "https://imgur.com/bMW3eck",
+          "linkedinURL":"",
+          "githubURL": "https://github.com/ArmanNawaz",
+          "twitterURL": ""
+        },
+    {
+      "id": 38,
+      "name": "Navidul Haque",
+      "batch": "2023",
+      "imgURL": "https://pbs.twimg.com/profile_images/1182146232904404992/FiUSghxm_400x400.jpg",
+      "linkedinURL":"https://www.linkedin.com/in/navidul-haque-7633871a5/",
+      "githubURL": "https://github.com/Navidulhaque",
+      "twitterURL": "https://twitter.com/navidul_haque"
+    },
     {
       "id": 39,
       "name": "Deepak Chaurasiya",
@@ -464,58 +464,67 @@
       "githubURL": "https://github.com/deepak252",
       "twitterURL": ""
     },
-{
-  "id": 39,
-  "name": "Piyush Nagpal",
-  "batch": "2023",
-  "imgURL": "https://media-exp1.licdn.com/dms/image/C4D03AQE754mAP7xkvw/profile-displayphoto-shrink_400_400/0/1618511416688?e=1640822400&v=beta&t=I8q3HYcQCkUZt89oXh6s5RP4lBJO-_8miHoSbpgIrrY",
-  "linkedinURL":"https://www.linkedin.com/in/piyush-nagpal/",
-  "githubURL": "https://github.com/zsiecr",
-  "twitterURL": ""
-},
- {
-   "id": 40
-  "name": "Alberto Azinar",
-  "batch": "2023",
-  "imgURL": "",
-  "linkedinURL":"https://www.linkedin.com/in/alberto-azinar-b7b90315a/",
-  "githubURL": "https://github.com/AlbertoYabeda",
-  "twitterURL": "https://twitter.com/a_azinar"
-},
-{
-  "id": 41,
-  "name": "Shivani Bhinge",
-  "batch": "2023",
-  "imgURL": "https://imgur.com/0AkBzo5.png",
-  "linkedinURL":"https://www.linkedin.com/in/shivani-bhinge-a19a29217/",
-  "githubURL": "https://github.com/shivanibhinge"
-},{
-  "id":42,
-  "name": "Gayatri Bhatambarekar",
-  "batch": "2023",
-  "imgURL": "",
-  "linkedinURL":"https://www.linkedin.com/in/gayatri-bhatambarekar-b55a2b217/",
-  "githubURL": "https://github.com/gayatribkar",
-  "twitterURL": ""
-}, 
     {
-  "id": 41,
-  "name": "Ajayraj Singh",
-  "batch": "2023",
-  "imgURL": "https://imgur.com/a/FHDajYy",
-  "linkedinURL":"https://www.linkedin.com/in/ajayraj-singh-406b2a13a/",
-  "githubURL": "https://www.github.com/AjayrajSingh",
-  "twitterURL": "https://www.twitter.com/ajayistic"
+      "id": 39,
+      "name": "Piyush Nagpal",
+      "batch": "2023",
+      "imgURL": "https://media-exp1.licdn.com/dms/image/C4D03AQE754mAP7xkvw/profile-displayphoto-shrink_400_400/0/1618511416688?e=1640822400&v=beta&t=I8q3HYcQCkUZt89oXh6s5RP4lBJO-_8miHoSbpgIrrY",
+      "linkedinURL":"https://www.linkedin.com/in/piyush-nagpal/",
+      "githubURL": "https://github.com/zsiecr",
+      "twitterURL": ""
+    },
+    {
+      "id": 40,
+      "name": "Alberto Azinar",
+      "batch": "2023",
+      "imgURL": "",
+      "linkedinURL":"https://www.linkedin.com/in/alberto-azinar-b7b90315a/",
+      "githubURL": "https://github.com/AlbertoYabeda",
+      "twitterURL": "https://twitter.com/a_azinar"
+    },
+    {
+      "id": 41,
+      "name": "Shivani Bhinge",
+      "batch": "2023",
+      "imgURL": "https://imgur.com/0AkBzo5.png",
+      "linkedinURL":"https://www.linkedin.com/in/shivani-bhinge-a19a29217/",
+      "githubURL": "https://github.com/shivanibhinge"
+    },{
+      "id":42,
+      "name": "Gayatri Bhatambarekar",
+      "batch": "2023",
+      "imgURL": "",
+      "linkedinURL":"https://www.linkedin.com/in/gayatri-bhatambarekar-b55a2b217/",
+      "githubURL": "https://github.com/gayatribkar",
+      "twitterURL": ""
+    }, 
+        {
+      "id": 41,
+      "name": "Ajayraj Singh",
+      "batch": "2023",
+      "imgURL": "https://imgur.com/a/FHDajYy",
+      "linkedinURL":"https://www.linkedin.com/in/ajayraj-singh-406b2a13a/",
+      "githubURL": "https://www.github.com/AjayrajSingh",
+      "twitterURL": "https://www.twitter.com/ajayistic"
 
-},
-           {
-  "id":43,
-  "name": "Shrijal Shrestha",
-  "batch": "2023",
-  "imgURL": "",
-  "linkedinURL":"https://www.linkedin.com/in/shrijal-shrestha-063421181/",
-  "githubURL": "https://github.com/shrijalshr",
-  "twitterURL": ""
-}
+    },
+    {
+      "id":43,
+      "name": "Shrijal Shrestha",
+      "batch": "2023",
+      "imgURL": "",
+      "linkedinURL":"https://www.linkedin.com/in/shrijal-shrestha-063421181/",
+      "githubURL": "https://github.com/shrijalshr",
+      "twitterURL": ""
+    },
+    {
+      "id": 44,
+      "name": "Asif Jawed",
+      "batch": "2023",
+      "imgURL": "https://imgur.com/a/SSkMCaj",
+      "linkedinURL":"https://www.linkedin.com/in/aasif1297",
+      "githubURL": "https://github.com/aasif1297",
+      "twitterURL": "https://www.tiwtter.com"
+    }
   ]
 }
