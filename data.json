@@ -474,7 +474,7 @@
   "twitterURL": ""
 },
  {
-   "id": 40
+   "id": 40,
   "name": "Alberto Azinar",
   "batch": "2023",
   "imgURL": "",
@@ -516,6 +516,16 @@
   "linkedinURL":"https://www.linkedin.com/in/shrijal-shrestha-063421181/",
   "githubURL": "https://github.com/shrijalshr",
   "twitterURL": ""
-}
+},
+    {
+      "id": 44,
+      "name": "Khushi Singh",
+      "batch": "2022",
+      "imgURL": "",
+      "linkedinURL": "https://www.linkedin.com/in/khushi-singh-559159287/",
+      "githubURL": "https://github.com/Khushi740",
+      "twitterUrl": ""
+
+    }
   ]
 }
