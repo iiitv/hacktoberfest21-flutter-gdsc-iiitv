@@ -516,6 +516,15 @@
   "linkedinURL":"https://www.linkedin.com/in/shrijal-shrestha-063421181/",
   "githubURL": "https://github.com/shrijalshr",
   "twitterURL": ""
-}
+},
+    {
+      "id":44,
+      "name": "Roopam Barman",
+      "batch": "2023",
+      "imgURL": "",
+      "linkedinURL":"https://www.linkedin.com/in/roopam10/",
+      "githubURL": "https://github.com/Redvey",
+      "twitterURL": "https://twitter.com/redvey10"
+    }
   ]
 }
